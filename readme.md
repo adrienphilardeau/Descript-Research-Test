@@ -1,4 +1,4 @@
-# Handwriting generation!
+#  Handwriting generation!
 
 Hey! Welcome to Lyrebird! We're excited to have you here. Since we work a lot with neural networks, this task will introduce you to the kind of models that we work with everyday. If you get stuck, please contact me and I'll be happy to provide hints.
 
